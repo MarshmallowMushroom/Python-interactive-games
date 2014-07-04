@@ -1,5 +1,5 @@
 # Rock-paper-scissors-lizard-Spock 
-# http://www.codeskulptor.org/#user29_TbbHiU1cld_0.py
+
 
 
 # The key idea of this program is to equate the strings
