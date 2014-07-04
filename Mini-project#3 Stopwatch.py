@@ -1,4 +1,3 @@
-# http://www.codeskulptor.org/#user30_55QoGpNOR9HcUaX.py
 # "Stopwatch: The Game"
 
 import simplegui
